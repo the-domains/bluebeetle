@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bluebeetle]]></title>
-        <description><![CDATA[bluebeetle]]></description>
+        <title><![CDATA[A day in the life of a bleu beetle]]></title>
+        <description><![CDATA[A day in the life of a bleu beetle]]></description>
         <link>https://thegrid.ai/bluebeetle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 05:39:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jan 2016 05:47:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bluebeetle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Lorem ipsum dolor...]]></title>
+            <description><![CDATA[<article><h1>Lorem ipsum dolor...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c53f1852e0d165af2303873ebd3dc909147512f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bluebeetle/lorem-ipsum-dolor/index.html</link>
+            <guid isPermaLink="false">28394032-485c-466d-8a9f-4ecadd272fff</guid>
+            <pubDate>Thu, 21 Jan 2016 05:47:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA["in your dreams!"]]></title>
-            <description><![CDATA[<article><h1>"in your dreams!"</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c362f9e-9b41-4033-8112-1e8abf55b923.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>"in your dreams!"</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1ab419dec13d11bbed46aabcb922f29d6fe29ce.jpg"></article>]]></description>
             <link>https://thegrid.ai/bluebeetle/in-your-dreams/index.html</link>
             <guid isPermaLink="false">f2c6780a-799e-40cb-ab90-d313df1a7e64</guid>
             <pubDate>Thu, 21 Jan 2016 05:38:49 GMT</pubDate>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/bluebeetle/2b8f70c5-614f-4400-af40-b5f70c244e10/index.html</link>
             <guid isPermaLink="false">2b8f70c5-614f-4400-af40-b5f70c244e10</guid>
             <pubDate>Thu, 21 Jan 2016 05:36:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lorem ipsum dolor...]]></title>
-            <description><![CDATA[<article><h1>Lorem ipsum dolor...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c53f1852e0d165af2303873ebd3dc909147512f.jpg"></article>]]></description>
-            <link>https://thegrid.ai/bluebeetle/lorem-ipsum-dolor/index.html</link>
-            <guid isPermaLink="false">28394032-485c-466d-8a9f-4ecadd272fff</guid>
-            <pubDate>Thu, 21 Jan 2016 05:35:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
