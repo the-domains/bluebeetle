@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[bluebeetle]]></title>
         <description><![CDATA[bluebeetle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bluebeetle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 05:35:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jan 2016 05:36:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bluebeetle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vulputate libero a neque malesuada, eu lobortis mauris aliquet. Praesent risus velit, commodo efficitur urna a, rutrum malesuada tellus. Sed molestie eu urna vitae tincidunt. Donec nibh mi, bibendum vel elit sed, egestas gravida ante. Maecenas id libero magna. Aliquam quis sem quis libero dapibus auctor eget in felis. Quisque euismod ac massa vitae euismod. Nullam ut risus dui. Nunc vel velit sit amet dolor blandit dignissim.</p>]]></description>
+            <link>https://thegrid.ai/bluebeetle/2b8f70c5-614f-4400-af40-b5f70c244e10/index.html</link>
+            <guid isPermaLink="false">2b8f70c5-614f-4400-af40-b5f70c244e10</guid>
+            <pubDate>Thu, 21 Jan 2016 05:36:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lorem ipsum dolor...]]></title>
-            <description><![CDATA[<article><h1>Lorem ipsum dolor...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc2403a1-8126-47eb-b37b-dd25d70d9dfb.jpg"></article>]]></description>
-            <link>undefinedlorem-ipsum-dolor/index.html</link>
+            <description><![CDATA[<article><h1>Lorem ipsum dolor...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c53f1852e0d165af2303873ebd3dc909147512f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bluebeetle/lorem-ipsum-dolor/index.html</link>
             <guid isPermaLink="false">28394032-485c-466d-8a9f-4ecadd272fff</guid>
             <pubDate>Thu, 21 Jan 2016 05:35:18 GMT</pubDate>
         </item>
