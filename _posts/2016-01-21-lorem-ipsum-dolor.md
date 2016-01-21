@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-21T06:09:10.600Z'
+datePublished: '2016-01-21T06:09:10.647Z'
 dateModified: '2016-01-21T06:09:07.193Z'
 title: Lorem ipsum dolor...
 author: []
